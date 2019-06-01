@@ -1,0 +1,2 @@
+# ClassMethod_InstanceMethod
+ClassMethod_InstanceMethod
