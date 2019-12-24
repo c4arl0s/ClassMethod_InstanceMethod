@@ -6,6 +6,7 @@ Methods can be applied to an instance of the class or to the class itself.
 yourCar = [Car new];
 [yourCar prep];
 [yourCar getGas];
+```
 
 #Class methods
 
